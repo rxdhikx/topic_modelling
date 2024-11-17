@@ -1,7 +1,6 @@
 # Instagram Post Topic Modeling and Dimensional Quantification - FLAN T LLM
 
 
-### Abstract
 
 - **Objective**: Analyze Instagram post data to identify key **themes and topics** from captions and user comments.
 - **Data**: Excel file with multiple sheets, each representing a post (e.g., Netflix, Burberry, Ory), containing post captions and associated user comments.
